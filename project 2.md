@@ -233,7 +233,7 @@ $table = "todo_list";"
 ![](images/28.png)
 
 
-
+PHP environment is ready to connect and interact with your MySQL server
 
 
 
